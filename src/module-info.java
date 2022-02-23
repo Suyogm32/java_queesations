@@ -1,0 +1,2 @@
+module tathastu_internship {
+}
